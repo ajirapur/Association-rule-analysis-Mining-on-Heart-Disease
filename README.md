@@ -1,0 +1,2 @@
+# Association-rule-analysis-Mining-on-Heart-Disease
+The project is based on discovering association rules in heart disease dataset to determine the interesting rules for Heart Disease Result by creating healthy and unhealthy association rules. The association rules mining is a computational Approach is used crates correlates rules to identify the factors that highly contribute to heart disease. This project is ensuring to make association on the based of the most important variables called “slop”, which attributes is directly affecting the result of heart disease.
